@@ -16,6 +16,9 @@ manager = Manager(app)
 
 class clsUser():
     
+    def __init__(self):
+        self.
+    
     def insertar(self):
         print("Hola Mundo")
         pass
